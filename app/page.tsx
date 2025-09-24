@@ -410,6 +410,9 @@ export default function Home() {
                         ))}
                     </div>
                     {/* Decorations */}
+                    {/* <div className="flex justify-center text-xs items-center absolute -bottom-10 opacity-15 border-t w-full h-16">
+                        <p>Design by Rohan Patil: https://www.figma.com/community/file/1335196687351078757/my-personal-portfolio</p>
+                    </div> */}
                     <div className="absolute h-48 polka_dots left-1/8 top-1/4 -z-10 rotate-90 aspect-video"></div>
                     <div className="absolute h-64 polka_dots right-48 opacity-50 bottom-1/4 -z-10 aspect-video"></div>
                 </div>
